@@ -1,0 +1,31 @@
+html,body
+{
+padding:0px;
+margin:0px;
+}
+h2
+{
+margin-top:0px;
+}
+h3
+{
+border-bottom:0px;
+}
+.sidebar, .navbar, .footer
+{
+display:none;
+}
+#disqus_thread
+{
+display:none;
+}
+div.container
+{
+padding:0px;
+margin:5mm; 
+}
+
+/* disable url being printed after links */
+div.container a:link:after, div.container a:visited:after {    
+  content: "";    
+}
