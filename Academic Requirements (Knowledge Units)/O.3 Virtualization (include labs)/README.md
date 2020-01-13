@@ -1,2 +1,2 @@
-[SY401 labs](../../Course\ Documents/SY401\ CYBER\ OPERATIONS\ I)
-[SY402 labs](../../Course\ Documents/SY402\ CYBER\ OPERATIONS\ II)
+[SY401 labs](../../Course%20Documents/SY401%20CYBER%20OPERATIONS%20I)
+[SY402 labs](../../Course%20Documents/SY402%20CYBER%20OPERATIONS%20II)
