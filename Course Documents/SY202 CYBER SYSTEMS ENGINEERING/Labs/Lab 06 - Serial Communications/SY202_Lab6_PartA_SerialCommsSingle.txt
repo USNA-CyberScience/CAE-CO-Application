@@ -1,0 +1,212 @@
+/*********************************************
+*                                            *
+* SY202_Lab 6, Single                        *
+* CDR Paul Frontera, 28 Feb 18               *
+*                                            *
+* Updated 6Mar18: Fixed dec/hex order        *
+*        24Feb19: Added 2 character transmit *
+*                                            *
+*********************************************/
+
+#include "mbed.h"
+
+// Global Variables
+// Define serial communication pc
+Serial pc(USBTX, USBRX); // tx, rx for connection to Tera Term (9600N81)
+Serial serTx(p9,p10); // tx,rx ONLY Transmit line is used
+Serial serRx(p13,p14); // tx,rx ONLY Receive line is used
+
+DigitalOut myled1(LED1); // Indicate transmitting
+DigitalOut myled2(LED2); // Indicate receiving
+
+int main() {
+    char var1 = 'U'; // 1st character transmitted
+    char var2 = '~'; // 2nd character transmitted
+    while(1){
+        pc.printf("\n\nPress any key to perform Lab 6, Part A.6.a, Tx/Rx Matched Parameter 600 Baud Serial Comms\n");
+        char go=pc.getc();
+        // Set the Tx and Rx serial paramters - Baud Rate-Data Bits-Parity-Stop Bits
+        serTx.baud(600);
+        serRx.baud(600);
+        serTx.format(8,SerialBase::None,1);
+        serRx.format(8,SerialBase::None,1);
+        //Flush serial buffers
+        while(serTx.readable() != 0){
+             char dump = serTx.getc();
+        }
+        while(serRx.readable() != 0){
+             char dump = serRx.getc();
+        }
+        //Transmit and receive 5 times
+        for(int i=0;i<=4;i++) {
+            char varIn1 = '\0';
+            char varIn2 = '\0';
+
+            pc.printf("Transmission %d:\n \t (character/hexadecimal/decimal): %c %x %d\n",i+1,var1,var1,var1);
+            pc.printf("\t (character/hexadecimal/decimal): %c %x %d\n",var2,var2,var2);
+            myled1 = 1; //Turn on LED1 to indicate transmitting
+            serTx.putc(var1);
+            serTx.putc(var2);
+            myled1 = 0; //Turn off LED1 to indicate end of transmission
+            myled2 = 1; //Turn on LED2 to indicate receiving
+            while(varIn1 == '\0'){
+                if(serRx.readable()){
+                    varIn1 = serRx.getc(); //Store 1st character when available
+                    break;
+                }
+                pc.printf("Buffer 1 empty\n");
+            }
+            while(varIn2 == '\0'){
+                if(serRx.readable()){
+                    varIn2 = serRx.getc(); //Store 2nd character when available
+                    break;
+                }
+                pc.printf("Buffer 2 empty\n");
+            }
+            myled2 = 0; //Turn off LED2 when finished receiving
+            pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn1,varIn1,varIn1);
+            pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn2,varIn2,varIn2);
+        }
+
+        pc.printf("\n\nPress any key to perform Lab 6, Part A.6.b, 300 Tx/600 Rx Baud Serial Comms\n");
+        go=pc.getc();
+        // Set the Tx and Rx serial paramters - Baud Rate-Data Bits-Parity-Stop Bits
+        serTx.baud(300);
+        serRx.baud(600);
+        serTx.format(8,SerialBase::None,1);
+        serRx.format(8,SerialBase::None,1);
+        //Flush serial buffers
+        while(serTx.readable() != 0){
+             char dump = serTx.getc();
+        }
+        while(serRx.readable() != 0){
+             char dump = serRx.getc();
+        }
+        //Transmit and receive 5 times
+        for(int i=0;i<=4;i++) {
+            char varIn1 = '\0';
+            char varIn2 = '\0';
+
+            pc.printf("Transmission %d:\n \t (character/hexadecimal/decimal): %c %x %d\n",i+1,var1,var1,var1);
+            pc.printf("\t (character/hexadecimal/decimal): %c %x %d\n",var2,var2,var2);
+            myled1 = 1; //Turn on LED1 to indicate transmitting
+            serTx.putc(var1);
+            serTx.putc(var2);
+            myled1 = 0; //Turn off LED1 to indicate end of transmission
+            myled2 = 1; //Turn on LED2 to indicate receiving
+            while(varIn1 == '\0'){
+                if(serRx.readable()){
+                    varIn1 = serRx.getc(); //Store 1st character when available
+                    break;
+                }
+                pc.printf("Buffer 1 empty\n");
+            }
+            while(varIn2 == '\0'){
+                if(serRx.readable()){
+                    varIn2 = serRx.getc(); //Store 2nd character when available
+                    break;
+                }
+                pc.printf("Buffer 2 empty\n");
+            }
+            myled2 = 0; //Turn off LED2 when finished receiving
+            pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn1,varIn1,varIn1);
+            pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn2,varIn2,varIn2);
+        }
+
+        pc.printf("\n\nPress any key to perform Lab 6, Part A.6.c, Tx/Rx 600 Baud, mismatched data bit Serial Comms\n");
+        go=pc.getc();
+        // Set the Tx and Rx Baud Rate
+        serTx.baud(600);
+        serRx.baud(600);
+        serTx.format(8,SerialBase::None,1);
+        serRx.format(5,SerialBase::None,1);
+        //Flush serial buffers
+        while(serTx.readable() != 0){
+             char dump = serTx.getc();
+        }
+        while(serRx.readable() != 0){
+             char dump = serRx.getc();
+        }
+        //Transmit and receive 5 times
+        for(int i=0;i<=4;i++) {
+            char varIn1 = '\0';
+            char varIn2 = '\0';
+
+            pc.printf("Transmission %d:\n \t (character/hexadecimal/decimal): %c %x %d\n",i+1,var1,var1,var1);
+            pc.printf("\t (character/hexadecimal/decimal): %c %x %d\n",var2,var2,var2);
+            myled1 = 1; //Turn on LED1 to indicate transmitting
+            serTx.putc(var1);
+            serTx.putc(var2);
+            myled1 = 0; //Turn off LED1 to indicate end of transmission
+            myled2 = 1; //Turn on LED2 to indicate receiving
+            while(varIn1 == '\0'){
+                if(serRx.readable()){
+                    varIn1 = serRx.getc(); //Store 1st character when available
+                    break;
+                }
+                pc.printf("Buffer 1 empty\n");
+            }
+            while(varIn2 == '\0'){
+                if(serRx.readable()){
+                    varIn2 = serRx.getc(); //Store 2nd character when available
+                    break;
+                }
+                pc.printf("Buffer 2 empty\n");
+            }
+            myled2 = 0; //Turn off LED2 when finished receiving
+            pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn1,varIn1,varIn1);
+            pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn2,varIn2,varIn2);
+        }
+
+        pc.printf("\n\nPress any key to perform Lab 6, Part A.6.d, Tx/Rx 600 Baud, mismatched Stop Bit Serial Comms\n");
+        go=pc.getc();
+        // Set the Tx and Rx Baud Rate
+        serTx.baud(600);
+        serRx.baud(600);
+        serTx.format(8,SerialBase::None,1);
+        serRx.format(8,SerialBase::None,2);
+        //Flush serial buffers
+        while(serTx.readable() != 0){
+             char dump = serTx.getc();
+        }
+        while(serRx.readable() != 0){
+             char dump = serRx.getc();
+        }
+        //Transmit and receive 5 times
+        for(int i=0;i<=4;i++) {
+            char varIn1 = '\0';
+            char varIn2 = '\0';
+
+            pc.printf("Transmission %d:\n \t (character/hexadecimal/decimal): %c %x %d\n",i+1,var1,var1,var1);
+            pc.printf("\t (character/hexadecimal/decimal): %c %x %d\n",var2,var2,var2);
+            myled1 = 1; //Turn on LED1 to indicate transmitting
+            serTx.putc(var1);
+            serTx.putc(var2);
+            myled1 = 0; //Turn off LED1 to indicate end of transmission
+            myled2 = 1; //Turn on LED2 to indicate receiving
+            while(varIn1 == '\0'){
+                if(serRx.readable()){
+                    varIn1 = serRx.getc(); //Store 1st character when available
+                    break;
+                }
+                pc.printf("Buffer 1 empty\n");
+            }
+          pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn1,varIn1,varIn1);
+          int cnt = 0;
+          while(varIn2 == '\0'){
+                if(cnt > 24){
+                  pc.printf("Nothing received after 25 attempts.\n");
+                  break;
+                }
+                if(serRx.readable()){
+                    varIn2 = serRx.getc(); //Store 2nd character when available
+                    pc.printf("Received (character/hexadecimal/decimal): %c %x %d\n",varIn2,varIn2,varIn2);
+                    break;
+                }
+                pc.printf("Buffer 2 empty\n");
+                cnt++;
+            }
+            myled2 = 0; //Turn off LED2 when finished receiving
+        }
+    }
+}
