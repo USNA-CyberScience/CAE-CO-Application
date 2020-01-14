@@ -29,6 +29,13 @@ Foundation, the Carnegie Foundation, the Minerva Institute, the
 Department of the Army and the Office of Naval Research. Details appear
 in the supporting documentation.
 
+1. [Keywords](#keywords)
+2. [Publications](#publications)
+3. [Works in progress](#wip)
+4. [Presentations](#presentations)
+5. [Grants](#grants)
+
+<a name=keywords></a>
 ### List of keywords for faculty research interests and activities:
 
 Adaptive Firewalls; Applied Cryptography; Anonymous Communication;
@@ -44,6 +51,7 @@ Reverse Engineering; Secure Voting; Security; Security Analysis; Social
 engineering; Statistics; Textual Data Mining; Trust and Deception;
 Wireless Security
 
+<a name=publications></a>
 ### Published Articles (2014 - Present)
 
 *Cyber Science Faculty in italics*
@@ -315,6 +323,7 @@ Wireless Security
     the 13th IEEE Symposium on Visualization for Cyber Security VizSec
     2016*, March 15-16, Hoboken, NJ.
 
+<a name=wip></a>
 ### Works in Progress (related to Cyber Operations)
 
 1.  *Brown, D.*, T. O. Walker III, J. Blanco, R. W. Ives, H. T. Ngo, J.
@@ -351,6 +360,7 @@ Wireless Security
 10. Libicki, M. “An Ecology of Cyberspace,” in Routledge Handbook of
     Cybersecurity, *Forthcoming*.
 
+<a name=presentations></a>
 ### Presentations (January 2016 - Present)
 
 1.  *Brown, D.* (2019). "After the Hack: What is Happening to Our
@@ -471,6 +481,7 @@ Wireless Security
     Authentication. Poster Session presented at the DC Anonymity,
     Privacy and Security Seminar. UMBC. Catonsville, MD.
 
+<a name=grants></a>
 ### Grants:
 
 **Kosseff**
