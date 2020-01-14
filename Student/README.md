@@ -1,4 +1,4 @@
-## Student Involvement in Cyber Research and Activities
+## Student Involvement in Cyber Operations Research and Related Activities
 
 Students at USNA are involved in a variety of research, competitive, and outreach activities related to cyber operations.
 
