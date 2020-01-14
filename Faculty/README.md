@@ -29,12 +29,13 @@ Foundation, the Carnegie Foundation, the Minerva Institute, the
 Department of the Army and the Office of Naval Research. Details appear
 in the supporting documentation.
 
-**Table of Contents**
-1. [Keywords](#keywords)
-2. [Publications](#publications)
-3. [Works in progress](#wip)
-4. [Presentations](#presentations)
-5. [Grants](#grants)
+| **Table of Contents**              |
+| ---------------------------------- |
+| 1. [Keywords](#keywords)           |
+| 2. [Publications](#publications)   |
+| 3. [Works in progress](#wip)       |
+| 4. [Presentations](#presentations) |
+| 5. [Grants](#grants)               |
 
 <a name=keywords></a>
 ### List of keywords for faculty research interests and activities:
