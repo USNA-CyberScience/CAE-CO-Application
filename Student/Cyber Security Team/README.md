@@ -1,4 +1,4 @@
-**USNA Cyber Security Team Exercises: August 2018 - November 2019**
+## USNA Cyber Security Team Exercises: August 2018 - November 2019
 
 NCX Winners: 2018
 

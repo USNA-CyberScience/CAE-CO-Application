@@ -1,4 +1,4 @@
-**Women in Cyber and Computing Club (WICC) **
+## Women in Cyber and Computing Club (WICC)
 
 In September 2016, to bridge this gap in the fields of cyber and
 computing, a team of female midshipmen and civilian faculty members
