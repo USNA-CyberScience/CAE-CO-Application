@@ -22,7 +22,7 @@ not limited to:
       <td>Reverse engineering techniques</td>
       <td>
         <ul>
-          <li>[Link to SY485J syllabus]("../../Course%20Documents/SY485J%20REVERSE%20ENGINEERING/000-coursePolicy.pdf")
+          <li><a href="../../Course%20Documents/SY485J%20REVERSE%20ENGINEERING/000-coursePolicy.pdf"">Link to SY485J syllabus]</a>
           <li>Lab 4, 5, 7, and 8 are the examples provided.
           <li>Static and dynamic analysis techniques and tools are the backbone for this course.
         </ul>
@@ -50,7 +50,7 @@ not limited to:
       <td>
         <ul>
           <li>Part of the discussion in reversing malware is detecting whether the malware is communicating with another entity and how this is done. Demos are performed in class of how to detect malware using Wireshark. There is also a lesson on specific secure communication protocols to include IKE for IPsec and TLS. Lab 10 requires the students to use Wireshark to detect malware exfiltrating data.
-          <li>See following document in course folder: [Secure\_Communication\_Protocols.pdf](../../Course%20Documents/SY485J%20REVERSE%20ENGINEERING/Secure_Communication_Protocols.pdf)
+          <li>See following document in course folder: <a href="../../Course%20Documents/SY485J%20REVERSE%20ENGINEERING/Secure_Communication_Protocols.pdf">Secure Communication Protocols.pdf</a>
         </ul>
       </td>
     </tr>
@@ -58,7 +58,7 @@ not limited to:
       <td>Deobfuscation of obfuscated code</td>
       <td>
         <ul>
-          <li>Deobfuscating obfuscated code is discussed in detail in Lesson 15 - see following document in course folder: [Anti\_Reversing\_Techniques.pdf](../../Course%20Documents/SY485J%20REVERSE%20ENGINEERING/Anti_Reversing_Techniques.pdf)
+          <li>Deobfuscating obfuscated code is discussed in detail in Lesson 15 - see following document in course folder: <a href="../../Course%20Documents/SY485J%20REVERSE%20ENGINEERING/Anti_Reversing_Techniques.pdf">Anti Reversing Techniques.pdf</a>
         </ul>
       </td>
     </tr>
