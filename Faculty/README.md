@@ -1,4 +1,4 @@
-## Faculty Involvement in Cyber Operations-related Research
+# Faculty Involvement in Cyber Operations-related Research
 
 Faculty members have research interests in a wide range of areas related
 to cyber operations, including cryptography, privacy, human factors,
@@ -38,7 +38,7 @@ in the supporting documentation.
 | 5. [Grants](#grants)               |
 
 <a name=keywords></a>
-### List of keywords for faculty research interests and activities:
+## List of keywords for faculty research interests and activities:
 
 Adaptive Firewalls; Applied Cryptography; Anonymous Communication;
 Artificial Intelligence; Authentication; Cryptography; Cyberbullying;
@@ -54,7 +54,7 @@ engineering; Statistics; Textual Data Mining; Trust and Deception;
 Wireless Security
 
 <a name=publications></a>
-### Published Articles (2014 - Present)
+## Published Articles (2014 - Present)
 
 *Cyber Science Faculty in italics*
 
@@ -326,7 +326,7 @@ Wireless Security
     2016*, March 15-16, Hoboken, NJ.
 
 <a name=wip></a>
-### Works in Progress (related to Cyber Operations)
+## Works in Progress (related to Cyber Operations)
 
 1.  *Brown, D.*, T. O. Walker III, J. Blanco, R. W. Ives, H. T. Ngo, J.
     Shey, and R. Rakvic. Detecting Firmware Modification on Solid State
@@ -363,7 +363,7 @@ Wireless Security
     Cybersecurity, *Forthcoming*.
 
 <a name=presentations></a>
-### Presentations (January 2016 - Present)
+## Presentations (January 2016 - Present)
 
 1.  *Brown, D.* (2019). "After the Hack: What is Happening to Our
     Data?", Minority Innovation Weekend, University of Baltimore,
@@ -484,7 +484,7 @@ Wireless Security
     Privacy and Security Seminar. UMBC. Catonsville, MD.
 
 <a name=grants></a>
-### Grants:
+## Grants:
 
 **Kosseff**
 
