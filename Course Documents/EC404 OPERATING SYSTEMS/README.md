@@ -6,11 +6,11 @@ This assignment will involve designing two kernel modules:
 1. Design a kernel module that creates a `/proc` file named `/proc/jiffies` that reports the current value of jiffies when the `/proc/jiffies` file is read, such as with the command
 <pre>cat /proc/jiffies</pre>
 Be sure to remove /proc/jiffies when the module is removed.
-2. Design a kernel module that creates a proc file named `/proc/seconds` that reports the number of elapsed seconds since the kernel module was loaded. This will involve using the value of jiffies as well as the HZ rate. When a user enters the command <pre>cat /proc/seconds</pre> your kernel module will report the number of seconds that have elapsed since the kernel module was first loaded. Be sure to remove `/proc/seconds` when the module is removed.
+2. Design a kernel module that creates a `proc` file named `/proc/seconds` that reports the number of elapsed seconds since the kernel module was loaded. This will involve using the value of jiffies as well as the HZ rate. When a user enters the command <pre>cat /proc/seconds</pre> your kernel module will report the number of seconds that have elapsed since the kernel module was first loaded. Be sure to remove `/proc/seconds` when the module is removed.
 
 ## Project 2 (Threads and Synchronization)
 
-Included as a PDF of pictures from the textbook
+Refer to pages 253-257 from *Operating Systems Concepts*, 9th Ed., Silberschatz, Galvin, and Gagne.
 
 ## Project 3 (Virtual Memory Manager)
 
