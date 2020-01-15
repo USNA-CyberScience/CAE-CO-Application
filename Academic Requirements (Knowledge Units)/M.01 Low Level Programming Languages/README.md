@@ -9,7 +9,7 @@ development).
 
 | ***Topic*** | ***Assessment*** |
 | --- | --- |
-|  C programming | C: SY204, current. See complete course documents [*here*](../../Course%20Documents/SY204%20SYSTEM%20PROGRAMMING%20&%20OS%20FUNDAMENTALS) |
+|  C programming | C: SY204, current. See complete course documents [*here*](../../Course%20Documents/SY204%20SYSTEMS%20PROGRAMMING%20&%20OS%20FUNDAMENTALS) |
 |  Assembly Language programming (for x86, ARM, MIPS or PowerPC) | Assembly: SY303, current. See complete course documents [*here*](../../Course%20Documents/SY303%20CYBER%20SYSTEMS%20ARCHITECTURE) |
 
 *Specific languages required to satisfy this knowledge unit are:*  
