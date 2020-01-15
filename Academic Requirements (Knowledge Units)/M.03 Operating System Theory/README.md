@@ -1,4 +1,4 @@
-M.3 Operating System Theory
+# M.3 Operating System Theory
 
 Operating systems (OS) provide the platform on which running software
 acquires and uses computing resources. Operating systems are responsible
