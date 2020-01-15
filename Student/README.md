@@ -6,48 +6,44 @@ Students at USNA are involved in a variety of research, competitive, and outreac
 
 ### Student Capstone Projects:
 
-**Hardening Autonomous Drones for Combat Augmentation**
+-   **Hardening Autonomous Drones for Combat Augmentation**
+    *Niles Moffat, Eric Roque-Jackson, Zach Makkonen*
 
-*Niles Moffat, Eric Roque-Jackson, Zach Makkonen*
+    The goal of this project is to harden autonomous drones to electronic
+    attacks, making them more survivable in a combat environment. Working
+    with the Office of Naval Research's Squads with Autonomous Teammates
+    Challenge (SWAT-C) our group is testing the Navy team's drones for
+    vulnerabilities. Our research has discovered glaring vulnerabilities on
+    the drones which renders them combat ineffective. Further research is
+    being conducted to patch these vulnerabilities.
 
-The goal of this project is to harden autonomous drones to electronic
-attacks, making them more survivable in a combat environment. Working
-with the Office of Naval Research's Squads with Autonomous Teammates
-Challenge (SWAT-C) our group is testing the Navy team's drones for
-vulnerabilities. Our research has discovered glaring vulnerabilities on
-the drones which renders them combat ineffective. Further research is
-being conducted to patch these vulnerabilities.
-
-**Securing Critical Infrastructure: An Open Source Approach**
-
-*Sam Teplov, Anthony Dohse, Elijah Kilmer, Matt McCraith*
-
-This project aims to solve the difficult problem of securing critical
-infrastructure in a cost-efficient and effective manner. The final
-version of this software combines various open source tools into a
-powerful security suite that allows individuals to analyze and detect
-potential threats within their operational technology (OT) network.
-
-**Fork After Withholding: Attacking Bitcoin For Profit**
-
-*Noah Engel, Peter Hinsa, Mitchell Pendleton*
-
-The goal of this project is to determine if given a certain amount of
-computing power and resources, if it is feasible to use the FAW (Fork
-After Withholding) attack on bitcoin to obtain a mathematical advantage
-over other bitcoin miners to result in a significant amount of profit.
-
-**Profiling a Software Developer - The Link Between Personality and the
-Development of Technical Skills**
-
-*Reagan Bearden, Mary Elise Brady, Hannah Decker, Morgan Giraud*
-
-The goal of this project is to develop the profile of a cyber operator
-during adolescence to benefit the US Intelligence Community. This study
-looks explicitly at the link between personality and the aptitude for
-software development utilizing resources at the NSA (specifically in the
-CNO) and assessing 3 specific personality tests: Myers Briggs, the Big
-5, and DiSC.
+-   **Securing Critical Infrastructure: An Open Source Approach**
+    *Sam Teplov, Anthony Dohse, Elijah Kilmer, Matt McCraith*
+    
+    This project aims to solve the difficult problem of securing critical
+    infrastructure in a cost-efficient and effective manner. The final
+    version of this software combines various open source tools into a
+    powerful security suite that allows individuals to analyze and detect
+    potential threats within their operational technology (OT) network.
+    
+-   **Fork After Withholding: Attacking Bitcoin For Profit**
+    *Noah Engel, Peter Hinsa, Mitchell Pendleton*
+    
+    The goal of this project is to determine if given a certain amount of
+    computing power and resources, if it is feasible to use the FAW (Fork
+    After Withholding) attack on bitcoin to obtain a mathematical advantage
+    over other bitcoin miners to result in a significant amount of profit.
+    
+-   **Profiling a Software Developer - The Link Between Personality and the
+    Development of Technical Skills**
+    *Reagan Bearden, Mary Elise Brady, Hannah Decker, Morgan Giraud*
+    
+    The goal of this project is to develop the profile of a cyber operator
+    during adolescence to benefit the US Intelligence Community. This study
+    looks explicitly at the link between personality and the aptitude for
+    software development utilizing resources at the NSA (specifically in the
+    CNO) and assessing 3 specific personality tests: Myers Briggs, the Big
+    5, and DiSC.
 
 ### Student Publications:
 
