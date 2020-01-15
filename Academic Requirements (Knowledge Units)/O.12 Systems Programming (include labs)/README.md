@@ -1,3 +1,3 @@
-# README
+# Supporting documentation for this Knowledge Unit
 
-[Github](https://github.com "Github Homepage")
+[EC404](../../Course%20Documents/EC404%20OPERATING%20SYSTEMS)
