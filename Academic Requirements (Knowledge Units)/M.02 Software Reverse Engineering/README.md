@@ -1,4 +1,4 @@
-# M.2 Software Reverse Engineering (must include hands-on lab exercises)
+# M.2 Software Reverse Engineering
 
 The discipline of reverse engineering provides the ability to deduce the
 design of a software component, to determine how something works (i.e.,
