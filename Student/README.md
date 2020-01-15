@@ -1,10 +1,10 @@
-## Student Involvement in Cyber Operations Research and Related Activities
+# Student Involvement in Cyber Operations Research and Related Activities
 
 Students at USNA are involved in a variety of research, competitive, and outreach activities related to cyber operations.
 
 [Current Academic Year Cyber Operations Capstone Projects](https://docs.google.com/spreadsheets/d/1whhwoYxCtJ0ZMGom_joIoQ8bVApS-B3tso1iy_BNaWE/edit?usp=sharing) 
 
-### Student Capstone Projects:
+## Student Capstone Projects
 
 -   **Hardening Autonomous Drones for Combat Augmentation**  
     *Niles Moffat, Eric Roque-Jackson, Zach Makkonen*
@@ -45,7 +45,7 @@ Students at USNA are involved in a variety of research, competitive, and outreac
     CNO) and assessing 3 specific personality tests: Myers Briggs, the Big
     5, and DiSC.
 
-### Student Publications:
+## Student Publications
 
 *Cyber Science Faculty in italics*
 
