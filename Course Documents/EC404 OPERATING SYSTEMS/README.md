@@ -10,7 +10,7 @@ Be sure to remove /proc/jiffies when the module is removed.
 
 ## Project 2 (Threads and Synchronization)
 
-Refer to pages 253-257 from *Operating Systems Concepts*, 9th Ed., Silberschatz, Galvin, and Gagne.
+Refer to p.253-257 from Ch. 5, *Operating Systems Concepts*, 9th Ed., Silberschatz, Galvin, and Gagne.
 
 ## Project 3 (Virtual Memory Manager)
 
