@@ -17,20 +17,20 @@ not limited to:
 			<th>Assessment</th>
 		</tr>
 		<tr>
-			<td>Typical instruction sets and architectures</td>
-			<td></td>
+			<td width="50%">Typical instruction sets and architectures</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Common programming environments for microcontrollers</td>
-			<td></td>
+			<td width="50%">Common programming environments for microcontrollers</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>How the real-time requirements and simple architecture of the typical microcontroller require special programming considerations</td>
-			<td></td>
+			<td width="50%">How the real-time requirements and simple architecture of the typical microcontroller require special programming considerations</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Cyber considerations and issues related to microcontrollers and the larger systems they are typically integrated into</td>
-			<td></td>
+			<td width="50%">Cyber considerations and issues related to microcontrollers and the larger systems they are typically integrated into</td>
+			<td width="50%"></td>
 		</tr>
 
 	</tbody>
