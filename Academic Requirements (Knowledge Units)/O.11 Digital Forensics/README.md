@@ -37,7 +37,6 @@ Forensic tools, 6) Graphics Files, 7) File system Forensics and NTFS.
 			<td width="50%">Memory forensics</td>
 			<td width="50%">Memory Forensics lecture and Volatility lab.</td>
 		</tr>
-
 	</tbody>
 </table>
 
