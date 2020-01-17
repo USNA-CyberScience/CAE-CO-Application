@@ -18,8 +18,8 @@ not limited to:
 | Input validation issues                                      | SY308 |
 | Password weaknesses                                          | <p>Password cracking techniques are demonstrated in class lectures and lab work for SY401/402<p>SY201: supports (Pswd Stretching, Pswd Cracking)<p>SY301: supports (Pswd Cracking) |
 | Trust relationships                                          | Exploiting trust the Social Engineering Toolkit in Kali Linux is demonstrated in SY401 lab and lectures. |
-| Race conditions                                              | --- |
-| Numeric over/underflows                                      | --- |
+| Race conditions                                              | |
+| Numeric over/underflows                                      | |
 | User-space vs. kernel-space vulnerabilities                  | SY204 covers this in the OS Overview and System Programming Concepts lectures |
 | Local vs. remote access                                      | Local and remote access techniques and patterns are demonstrated in class and lab demonstrations in SY401/402. |
 
