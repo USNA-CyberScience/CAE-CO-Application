@@ -1,4 +1,4 @@
-# O.7 Microcontroller Design (must include hands-on lab exercises)
+# O.7 Microcontroller Design
 
 A microcontroller (or MCU, short for microcontroller unit) is a small,
 simple computer on a single integrated circuit containing a processor
