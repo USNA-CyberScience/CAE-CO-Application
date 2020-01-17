@@ -25,7 +25,6 @@ not limited to:
 			<td width="50%">The appropriate application of different types of cryptography to Internet security, computer security and communications security</td>
 			<td width="50%"><p>SY308: SSL/TLS<p>SY486C: Tor, blockchains, end-to-end cryptographic voting, searchable encryption, oblivious RAM, private information retrieval</td>
 		</tr>
-
 	</tbody>
 </table>
 
