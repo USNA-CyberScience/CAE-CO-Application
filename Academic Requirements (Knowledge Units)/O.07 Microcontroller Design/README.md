@@ -32,7 +32,6 @@ not limited to:
 			<td width="50%">Cyber considerations and issues related to microcontrollers and the larger systems they are typically integrated into</td>
 			<td width="50%"></td>
 		</tr>
-
 	</tbody>
 </table>
 
