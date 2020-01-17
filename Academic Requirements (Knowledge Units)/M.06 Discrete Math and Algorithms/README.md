@@ -13,7 +13,7 @@ not limited to:
 | -------------------------------------------|----------------------------------------|
 | Searching and sorting algorithms           | SY301                                  |
 | Complexity theory                          | SY301                                  |
-| Regular expressions                        | <ul><li>SY205 - Shell/Command Line operations<li>SY402 - use GREP to sort files/logs</ul>|
+| Regular expressions                        | <p>SY205 - Shell/Command Line operations<p>SY402 - use GREP to sort files/logs|
 | Computability                              | SY301, SY308                           |
 | Mathematical foundations for cryptography  | SY308                                  |
 | Entropy                                    | SY308                                  |
