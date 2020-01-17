@@ -9,14 +9,39 @@ familiar.
 Specific topics to be covered in this knowledge unit include, but are
 not limited to:
 
-| ***Topic***                                | ***Assessment***                       |
-| -------------------------------------------|----------------------------------------|
-| Searching and sorting algorithms           | SY301                                  |
-| Complexity theory                          | SY301                                  |
-| Regular expressions                        | <p>SY205 - Shell/Command Line operations<p>SY402 - use GREP to sort files/logs|
-| Computability                              | SY301, SY308                           |
-| Mathematical foundations for cryptography  | SY308                                  |
-| Entropy                                    | SY308                                  |
+<table>
+	<tbody>
+		<tr>
+			<th>Topic</th>
+			<th>Assessment</th>
+		</tr>
+		<tr>
+			<td width="50%">Searching and sorting algorithms</td>
+			<td width="50%">SY301</td>
+		</tr>
+		<tr>
+			<td width="50%">Complexity theory</td>
+			<td width="50%">SY301</td>
+		</tr>
+		<tr>
+			<td width="50%">Regular expressions</td>
+			<td width="50%"><p>SY205 - Shell/Command Line operations<p>SY402 - use GREP to sort files/logs</td>
+		</tr>
+		<tr>
+			<td width="50%">Computability</td>
+			<td width="50%">SY301, SY308</td>
+		</tr>
+		<tr>
+			<td width="50%">Mathematical foundations for cryptography</td>
+			<td width="50%">SY308</td>
+		</tr>
+		<tr>
+			<td width="50%">Entropy</td>
+			<td width="50%">SY308</td>
+		</tr>
+
+	</tbody>
+</table>
 
 *Outcome*: Given an algorithm, a student will be able to determine the
 complexity of the algorithm and cases in which the algorithm would/would
