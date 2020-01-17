@@ -1,4 +1,4 @@
-# M.4 Networking (must include hands-on lab exercises)
+# M.4 Networking
 
 Computer and communications networks are the very environment in which
 cyber operations are conducted. An understanding of these networks is
@@ -75,7 +75,7 @@ how the lower-level network layers support the upper ones. They will
 have a thorough knowledge of the major network protocols that enable
 communications and data transfer.
 
-# Supporting documentation for this Knowledge Unit
+## Supporting documentation for this Knowledge Unit
 
 [SY205 labs](../../Course%20Documents/SY205%20NETWORKING:%20OPERATIONS%20AND%20ANALYSIS)\
 [SY301 labs](../../Course%20Documents/SY301%20DATA%20STRUCTURES%20FOR%20CYBER%20OPERATIONS)
