@@ -25,12 +25,10 @@ not limited to:
 				</ul>
 			</td>
 			<td>
-				<ul>
-					<li>Simplicity: SY201, SY301, SY308
-					<li>Open Design: SY205, current (RFCs), SY308
-					<li>Design Iter: SY201, current (???); SY204, current, SY308
-					<li>Least Astonishment: SY308
-				</ul>
+				<p>Simplicity: SY201, SY301, SY308
+				<p>Open Design: SY205, current (RFCs), SY308
+				<p>Design Iter: SY201, current (???); SY204, current, SY308
+				<p>Least Astonishment: SY308
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +43,8 @@ not limited to:
 					<li>Isolation, Separation and Encapsulation
 				</ul>
 			</td>
-			<td>Gen Sec Prin: SY204, current.
+			<td>
+				<p>Gen Sec Prin: SY204, current.
 				<p>Least Priv: SY201, SY204, current.
 				<p>All: SY308
 			</td>
