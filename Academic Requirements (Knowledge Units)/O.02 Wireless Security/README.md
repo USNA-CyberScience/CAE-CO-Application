@@ -17,7 +17,6 @@ not limited to:
 			<th>Topic</th>
 			<th>Assessment</th>
 		</tr>
-
 		<tr>
 			<td width="50%">A comparison of security implementations in different wireless technologies (e.g., 2G/3G/4G/Wi-Fi/Bluetooth/RFID)</td>
 			<td width="50%">Covered in SY488A</td>
@@ -48,7 +47,6 @@ not limited to:
 		</tr>
 	</tbody>
 </table>
-
 
 *Outcome*: Students will be able to describe the unique security and
 operational attributes in the wireless environment and their effects on
