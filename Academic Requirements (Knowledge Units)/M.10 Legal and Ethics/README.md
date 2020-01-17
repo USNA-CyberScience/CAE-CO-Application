@@ -17,6 +17,7 @@ International Law
 -   Jus in bello
     -   Hague Conventions
     -   Geneva Conventions
+
 U.S. Laws
 -   Constitution
     -   Article I (Legislative Branch)
@@ -32,6 +33,7 @@ U.S. Laws
         -   18 USC 2510-22 Electronic Communications Privacy Act
         -   18 USC 2701-12 Stored Communications Act
         -   18 USC 1831-32 Economic Espionage Acts
+
 Cyber Ethics
 -   Professional Ethics and Codes of Conduct
 -   Social Responsibility
