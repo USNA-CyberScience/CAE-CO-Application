@@ -1,4 +1,4 @@
-#### O.3 Virtualization (must include hands-on lab exercises)
+# O.3 Virtualization (must include hands-on lab exercises)
 
 Virtualization technology has rapidly spread to become a core feature of
 enterprise environments, and is also deeply integrated into many server,
