@@ -39,7 +39,6 @@ not limited to:
 			<td width="50%">Entropy</td>
 			<td width="50%">SY308</td>
 		</tr>
-
 	</tbody>
 </table>
 
