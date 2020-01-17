@@ -1,4 +1,4 @@
-# O.12 Systems Programming (must include hands-on lab exercises)
+# O.12 Systems Programming
 
 This knowledge unit ensures that students will be proficient in
 programming systems software (i.e., software that interacts with the
