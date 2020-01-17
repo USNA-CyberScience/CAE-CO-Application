@@ -1,4 +1,4 @@
-# M.7 Overview of Cyber Defense (must include hands-on lab exercises)
+# M.7 Overview of Cyber Defense
 
 Cyber operations encompass both offensive and defensive operations.
 Defensive operations are essential in protecting our systems and
@@ -59,7 +59,7 @@ not limited to:
 		</tr>
 		<tr>
 			<td width="50%">Defense in depth</td>
-			<td width="50%">These are demonstrated in labs and lectures in SY401/402 - there . This is analogous to US Navy defense in depth leveraged in Naval Operations by Carrier Battlegroups. There is no single cybersecurity tool that can protect a network - and all elements of the problems are discussed - from human faults, HW/SW faults to physical vulnerabilities.</td>
+			<td width="50%">These are demonstrated in labs and lectures in <a href="../../Course%20Documents/SY401%20CYBER%20OPERATIONS%20I">SY401</a>/<a href="../../Course%20Documents/SY402%20CYBER%20OPERATIONS%20II">402</a>. This is analogous to US Navy defense in depth leveraged in Naval Operations by Carrier Battlegroups. There is no single cybersecurity tool that can protect a network - and all elements of the problems are discussed - from human faults, HW/SW faults to physical vulnerabilities.</td>
 		</tr>
 		<tr>
 			<td width="50%">Trust relationships</td>
