@@ -15,32 +15,32 @@ not limited to:
 			<th>Assessment</th>
 		</tr>
 		<tr>
-			<td>Organization of computer and processor architectures</td>
-			<td></td>
+			<td width="50%">Organization of computer and processor architectures</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Instruction set design alternatives</td>
-			<td></td>
+			<td width="50%">Instruction set design alternatives</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Processor implementation</td>
-			<td></td>
+			<td width="50%">Processor implementation</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Memory system hierarchy</td>
-			<td></td>
+			<td width="50%">Memory system hierarchy</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Buses</td>
-			<td></td>
+			<td width="50%">Buses</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>I/O systems</td>
-			<td></td>
+			<td width="50%">I/O systems</td>
+			<td width="50%"></td>
 		</tr>
 		<tr>
-			<td>Factors affecting performance</td>
-			<td></td>
+			<td width="50%">Factors affecting performance</td>
+			<td width="50%"></td>
 		</tr>
 
 	</tbody>
