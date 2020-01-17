@@ -7,13 +7,24 @@ SY486 is an elective taught at USNA within the Cyber Science Dept. It
 was last run during the spring of 2019 and is planned to run again
 during the spring of 2020. The course is X hours in class and Y hours in
 Lab per week and taught over a 15 week semester. The course is comprised
-of a lectures covering: 1) Investigation and documentation practices for
-Digital Forensics, 2) Data hiding, 3) Email investigations, 4) File
-System Forensics, 5) Memory Forensics, 6) Mobile Forensics, 7) Registry
-analysis, and 8) Social Media Forensics. Labs covering use of 1) Memory
-Forensics Tools such as Volatility, 2) Analysis of Hacking Activities,
-3) Imaging Drives and Operating Systems, 4) Steganography, 5) Autopsy
-Forensic tools, 6) Graphics Files, 7) File system Forensics and NTFS.
+of a lectures covering: 
+1) Investigation and documentation practices for Digital Forensics, 
+2) Data hiding, 
+3) Email investigations, 
+4) File System Forensics, 
+5) Memory Forensics, 
+6) Mobile Forensics, 
+7) Registry analysis, and 
+8) Social Media Forensics. 
+
+Labs covering use of 
+1) Memory Forensics Tools such as Volatility, 
+2) Analysis of Hacking Activities,
+3) Imaging Drives and Operating Systems, 
+4) Steganography, 
+5) Autopsy Forensic tools, 
+6) Graphics Files, 
+7) File system Forensics and NTFS.   
 
 <table>
 	<tbody>
