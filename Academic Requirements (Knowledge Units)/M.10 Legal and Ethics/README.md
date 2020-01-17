@@ -11,31 +11,31 @@ emerging ethical dilemmas on an individual and society.
 Specific topics to be covered in this knowledge unit include, but are
 not limited to:
 
-International Law  
--   Jus ad bellum  
-    -   United Nations Charter  
--   Jus in bello  
-    -   Hague Conventions  
-    -   Geneva Conventions  
-U.S. Laws  
--   Constitution  
-    -   Article I (Legislative Branch)  
-    -   Article II (Presidency)  
-    -   Article III (Judiciary)  
-    -   Amendment 4 (Search and Seizure)  
-    -   Article 14 (Due Process)  
--   Statutory Laws  
-    -   Title 10 (Armed Forces)  
-    -   Title 50 (War and National Defense)  
-    -   Title 18 (Crimes)  
-        -   18 USC 1030 (Computer Fraud and Abuse Act)  
-        -   18 USC 2510-22 Electronic Communications Privacy Act  
-        -   18 USC 2701-12 Stored Communications Act  
-        -   18 USC 1831-32 Economic Espionage Acts  
-Cyber Ethics  
--   Professional Ethics and Codes of Conduct  
--   Social Responsibility  
--   Ethical Hacking  
+International Law
+-   Jus ad bellum
+    -   United Nations Charter
+-   Jus in bello
+    -   Hague Conventions
+    -   Geneva Conventions
+U.S. Laws
+-   Constitution
+    -   Article I (Legislative Branch)
+    -   Article II (Presidency)
+    -   Article III (Judiciary)
+    -   Amendment 4 (Search and Seizure)
+    -   Article 14 (Due Process)
+-   Statutory Laws
+    -   Title 10 (Armed Forces)
+    -   Title 50 (War and National Defense)
+    -   Title 18 (Crimes)
+        -   18 USC 1030 (Computer Fraud and Abuse Act)
+        -   18 USC 2510-22 Electronic Communications Privacy Act
+        -   18 USC 2701-12 Stored Communications Act
+        -   18 USC 1831-32 Economic Espionage Acts
+Cyber Ethics
+-   Professional Ethics and Codes of Conduct
+-   Social Responsibility
+-   Ethical Hacking
 
 *Outcome*: Given a cyber operations scenario, students will be able to
 explain the authorities applicable to the scenario.
