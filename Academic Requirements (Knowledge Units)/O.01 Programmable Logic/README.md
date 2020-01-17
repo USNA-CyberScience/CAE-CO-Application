@@ -13,8 +13,8 @@ not limited to:
 
 | ***Topic***                                                                                               | ***Assessment***              |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------|
-| Hardware design/programming languages (e.g. VHSIC Hardware Design Language (VHDL), Verilog, OpenCL)       |                               |
-| Programmable logic devices (Programmable Logic Controllers (PLC), Fully Programmable Gate Arrays (FPGA))  |                               |
+| Hardware design/programming languages (e.g. VHSIC Hardware Design Language (VHDL), Verilog, OpenCL)       | Covered in SY202 and SY303    |
+| Programmable logic devices (Programmable Logic Controllers (PLC), Fully Programmable Gate Arrays (FPGA))  | SY303 covers design and implementation of a simple yet functional computer using NAND gates and D Flip-Flops |
                                                                                                              
 *Outcome*: Students will be able to specify digital device behavior
 using programmable logic language. They will be able to design,
