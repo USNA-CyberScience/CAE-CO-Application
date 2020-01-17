@@ -16,7 +16,7 @@ not limited to:
 	<tbody>
 		<tr><th>Topic</th><th>Assessment</th></tr>
 		<tr>
-			<td>General Fundamental design principles including:
+			<td width="50%">General Fundamental design principles including:
 				<ul>
 					<li>Simplicity
 					<li>Open Design
@@ -24,7 +24,7 @@ not limited to:
 					<li>Least Astonishment
 				</ul>
 			</td>
-			<td>
+			<td width="50%">
 				<p>Simplicity: SY201, SY301, SY308
 				<p>Open Design: SY205, current (RFCs), SY308
 				<p>Design Iter: SY201, current (???); SY204, current, SY308
@@ -32,7 +32,7 @@ not limited to:
 			</td>
 		</tr>
 		<tr>
-			<td>Security Design Principles including:
+			<td width="50%">Security Design Principles including:
 				<ul>
 					<li>Minimize Secrets
 					<li>Complete Mediation
@@ -43,14 +43,14 @@ not limited to:
 					<li>Isolation, Separation and Encapsulation
 				</ul>
 			</td>
-			<td>
+			<td width="50%">
 				<p>Gen Sec Prin: SY204, current.
 				<p>Least Priv: SY201, SY204, current.
 				<p>All: SY308
 			</td>
 		</tr>
 		<tr>
-			<td>Methods for Reducing Complexity including:
+			<td width="50%">Methods for Reducing Complexity including:
 				<ul>
 					<li>Abstraction
 					<li>Modularity
@@ -58,7 +58,7 @@ not limited to:
 					<li>Hierarchy
 				</ul>
 			</td>
-			<td>
+			<td width="50%">
 				<p>Abstraction: SY204, current; SY205, current; SY301
 				<p>Modularity: SY204, current; SY301
 				<p>Layering: SY205, current.
