@@ -1,4 +1,4 @@
-# O.9 Secure Software Development (Building Secure Software) (must include hands-on lab exercises)
+# O.9 Secure Software Development
 
 This knowledge unit ensures that students know how to write robust,
 secure software. These methods taught in this class should lead to
