@@ -42,7 +42,6 @@ not limited to:
 			<td width="50%">Factors affecting performance</td>
 			<td width="50%"></td>
 		</tr>
-
 	</tbody>
 </table>
 

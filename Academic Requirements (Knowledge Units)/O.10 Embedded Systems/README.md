@@ -37,7 +37,6 @@ not limited to:
 			<td width="50%">Cyber considerations and issues related to embedded systems</td>
 			<td width="50%"></td>
 		</tr>
-
 	</tbody>
 </table>
 

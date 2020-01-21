@@ -29,7 +29,6 @@ not limited to:
 			<td width="50%">Risk Processes (e.g. NIST SP 800-37 Risk Management Framework)</td>
 			<td width="50%">SY402 has several lectures on the NIST frameworks and Risk models and processes</td>
 		</tr>
-
 	</tbody>
 </table>
 
